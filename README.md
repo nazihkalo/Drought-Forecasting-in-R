@@ -15,3 +15,10 @@ Geophysicists differentiate between four sorts of droughts: Meteorological, agri
 
 Our dataset consists of monthly SPEI data between January 1950 and November 2018 (1,380 observations)1. Although data are available almost on a global scale, we would like to focus on regions especially affected by droughts (e.g. African countries in the Saharan region). Also, regions near the equator are easier to interpret data-wise, as seasons are less prevalent. See below for exemplary SPEI time series data (in this case for western Eritrea):
 
+## Analysis/Results:
+
+![image1](images/Dataset_1-1.png)
+![image2](images/Dataset_1-2.png)
+![image3](images/Dataset_1-3.png)
+![image4](images/Dataset_1-4.png)
+
